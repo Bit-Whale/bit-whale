@@ -1,6 +1,7 @@
 rootProject.name = "bit-whale"
 include("app")
 
+// dfsf
 dependencyResolutionManagement {
     versionCatalogs {
         create("libs") {
